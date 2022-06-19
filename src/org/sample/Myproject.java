@@ -11,5 +11,9 @@ public class Myproject {
         System.out.println("red");
         System.out.println("yellow");
         System.out.println("block");
+        
+        Myproject m=new Myproject();
+        m.employee();
+        
 	}
 }
